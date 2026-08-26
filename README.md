@@ -12,9 +12,7 @@ This project analyzes the vibrational characteristics of a landing gear assembly
 - Case study benchmarking against Boeing 737 landing gear parameters
 
 ## Tools
-- ANSYS (modal/vibration analysis)
 - SolidWorks/CATIA (geometry)
-- MATLAB (signal/vibration data processing)
 
 ## Repository Structure
 ```
